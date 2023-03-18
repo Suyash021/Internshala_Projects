@@ -9,6 +9,8 @@
 ## **Problem Statement**: ## 
 
 o We have to make a Regression model to forecast hourly bike rental demands. 
+
+o We will build the model using the combined historical usage pattern with the weather data. 
   
 o For testing and training the model we will use the test.csv and train.csv .
 

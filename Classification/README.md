@@ -4,7 +4,7 @@
 
 ## **Language Used** - Python ##
 
-## **Tools Used** - Jupyter Notebook, Microsoft Excel, Calssification Algorithm(Linear Regression), Python Libraries ##
+## **Tools Used** - Jupyter Notebook, Microsoft Excel, Classification Algorithm(Linear Regression), Python Libraries ##
 
 ## **Problem Statement**: ## 
 
